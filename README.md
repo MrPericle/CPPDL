@@ -1,6 +1,3 @@
-If you prefer not to use CMake for building your CPPDL project, you can provide alternative instructions for building the project using a straightforward method like compiling directly with a compiler command. Here’s how you can update the "Getting Started" section in your README.md file without relying on CMake:
-
-```markdown
 # CPPDL - C++ Deep Learning Framework
 
 CPPDL is an open-source framework for deep learning in C++. It aims to provide a comprehensive set of tools and utilities for developing and deploying deep learning models using modern C++ practices. This project is currently a work in progress and welcomes contributions from the community.
@@ -24,7 +21,7 @@ To build and use CPPDL, you need:
 
 ### Example Usage
 
-```cpp
+```
 #include <iostream>
 #include "cppdl/tensor.h"
 #include "cppdl/neural_network.h"

@@ -1,0 +1,7 @@
+#ifndef CPPDL_LOSSFUNCTION_LOSSHPP
+#define CPPDL_LOSSFUNCTION_LOSSHPP
+
+
+
+
+#endif
